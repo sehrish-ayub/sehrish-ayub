@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Sehrish 👋
 
-<!--
-**sehrish-ayub/sehrish-ayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer passionate about building modern and responsive web applications.
 
-Here are some ideas to get you started:
+### 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML5
+* CSS3
+* JavaScript
+* React JS
+* Bootstrap
+* Git & GitHub
+* Graphic Design
+
+### 🌱 Currently Learning
+
+* Advanced React JS
+* API Integration
+* State Management
+* AI-Assisted Development
+
+### 📂 Featured Projects
+
+* CRUD Application
+* To-Do App
+* Portfolio Website
+* Responsive Landing Pages
+
+### 📫 Connect With Me
+
+* GitHub: sehrish-ayub
+
+✨ Always learning, creating, and improving.
